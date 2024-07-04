@@ -1,0 +1,1 @@
+// PostPage.jsx: A page showing a single blog post, which could include components like Header, PostDetail, CommentSection, and Footer.
